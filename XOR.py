@@ -1,3 +1,4 @@
+#Created by Tristan Bester
 import numpy as np
 import random
 
